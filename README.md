@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Emma Gerritse
 
-You can use the [editor on GitHub](https://github.com/EmmaGerritse/EmmaGerritse.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Emma Gerritse, I am a PhD student at Radboud University Nijmegen. 
+I have a Bachelors in Math and Computer Science, and a Masters in Data Science. 
+My topic of research is the usage of Graph Embeddings in Information retrieval. 
 
-### Markdown
+### Publications:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Impact of Debiasing Word Embeddings onInformation Retrieval (FDIA 2019; won *best poster award*)
 
-```markdown
-Syntax highlighted code block
+### Contact:
 
-# Header 1
-## Header 2
-### Header 3
+You can contact me at:
+Email: *firstname DOT lastname AT ru DOT nl*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmmaGerritse/EmmaGerritse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
