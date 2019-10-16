@@ -12,6 +12,6 @@ Impact of Debiasing Word Embeddings onInformation Retrieval (FDIA 2019; won *bes
 ### Contact:
 
 You can contact me at:
-Email: *firstname DOT lastname AT ru DOT nl*
+Email: *emma.gerritse AT ru DOT nl*
 
 
