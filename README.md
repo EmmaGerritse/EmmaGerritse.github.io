@@ -7,11 +7,15 @@ My topic of research is the usage of Graph Embeddings in Information retrieval.
 
 ### Publications:
 
-Impact of Debiasing Word Embeddings onInformation Retrieval (FDIA 2019; won *best poster award*)
+
+Impact of Debiasing Word Embeddings on Information Retrieval [(paper)](http://emmagerritse.com/pdfs/FDIA_2019_paper.pdf) [(poster)](http://emmagerritse.com/pdfs/FDIA_2019_poster.pdf) (FDIA 2019; won *best poster award*)
 
 ### Contact:
 
 You can contact me at:
+
 Email: *emma.gerritse AT ru DOT nl*
 
+[LinkedIn](https://www.linkedin.com/in/emma-gerritse-8b0713146/)
 
+[Twitter](https://twitter.com/emmagerritse)
