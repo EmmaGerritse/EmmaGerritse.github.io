@@ -13,11 +13,9 @@ Impact of Debiasing Word Embeddings on Information Retrieval [(paper)](http://em
 
 ### Contact
 
-You can contact me at:
+- E-mail: `firstname DOT lastname AT ru DOT nl`
 
-Email: *firstname DOT lastname AT ru DOT nl*
+- [LinkedIn](https://www.linkedin.com/in/emma-gerritse-8b0713146/)
 
-[LinkedIn](https://www.linkedin.com/in/emma-gerritse-8b0713146/)
-
-[Twitter](https://twitter.com/emmagerritse)
+- [Twitter](https://twitter.com/emmagerritse)
 
