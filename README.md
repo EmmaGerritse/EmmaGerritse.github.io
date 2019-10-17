@@ -1,4 +1,4 @@
-## Emma Gerritse
+## About:
 
 
 Hi! My name is Emma Gerritse, I am a PhD student at Radboud University Nijmegen. 
