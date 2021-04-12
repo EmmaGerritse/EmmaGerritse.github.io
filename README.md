@@ -13,7 +13,7 @@ Bias in Conversational Search: The Double-Edged Sword of the Personalized Knowle
 
 Effect of Debiasing on Information Retrieval [(paper)](http://emmagerritse.com/pdfs/effect_of_debiasing_on_ir.pdf) (Presented at the BIAS2020 workshop during ECIR 2020)
 
-Graph-Embedding Empowered Entity Retrieval [(paper)](http://emmagerritse.com/pdfs/GEEER.pdf) (Presented at ECIR 2020)
+Graph-Embedding Empowered Entity Retrieval [(paper)](http://emmagerritse.com/pdfs/GEEER.pdf) [(GitHub)](https://github.com/informagi/GEEER) (Presented at ECIR 2020)
 
 Impact of Debiasing Word Embeddings on Information Retrieval [(paper)](http://emmagerritse.com/pdfs/FDIA_2019_paper.pdf) [(poster)](http://emmagerritse.com/pdfs/FDIA_2019_poster.pdf) (FDIA 2019; won *best poster award*)
 
@@ -28,4 +28,8 @@ My CV (outdated) is [available here.](http://emmagerritse.com/pdfs/CV_Emma_Gerri
 - [LinkedIn](https://www.linkedin.com/in/emma-gerritse-8b0713146/)
 
 - [Twitter](https://twitter.com/emmagerritse)
+
+### Links
+
+For links to my supervisors and co-Ph.D. students, check out [https://informagus.nl/](https://informagus.nl/).
 
