@@ -9,7 +9,9 @@ My topic of research is the usage of Graph Embeddings in Information retrieval. 
 ### Publications
 
 
-Bias in Conversational Search: The Double-Edged Sword of the Personalized Knowledge Graph [(paper)](http://emmagerritse.com/pdfs/biasinconversationalsearch.pdf) (Presented at ICTIR 2020)
+Entity-aware Transformers for Entity Search [(paper)](http://emmagerritse.com/pdfs/)
+
+Bias in Conversational Search: The Double-Edged Sword of the Personalized Knowledge Graph [(paper)](http://emmagerritse.com/pdfs/sigir22.pdf)  [(GitHub)](https://github.com/informagi/EMBERT) (Presented at SIGIR 2022)
 
 Effect of Debiasing on Information Retrieval [(paper)](http://emmagerritse.com/pdfs/effect_of_debiasing_on_ir.pdf) (Presented at the BIAS2020 workshop during ECIR 2020)
 
@@ -23,7 +25,7 @@ My CV (outdated) is [available here.](http://emmagerritse.com/pdfs/CV_Emma_Gerri
 
 ### Contact
 
-- E-mail: `firstname DOT lastname AT ru DOT nl`
+- E-mail: `firstname lastname AT outlook DOT com`
 
 - [LinkedIn](https://www.linkedin.com/in/emma-gerritse-8b0713146/)
 
