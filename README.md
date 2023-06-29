@@ -4,10 +4,9 @@
 Hi! My name is Emma Gerritse, I am a Ph.D. student at Radboud University Nijmegen. 
 
 I have a Bachelor's degree in both Mathematics and Computer Science, and a Master's degree in Data Science. 
-My topic of research is the usage of Graph Embeddings in Information retrieval. I am interested in how we can use graph embeddings in the most optimal way to benefit users, but also the unintended effects they might have. 
+My topic of research is the usage of Graph Embeddings in Information retrieval. I am interested in how we can use graph embeddings in the most optimal way to benefit users and the unintended effects they might have. 
 
 ### Publications
-
 
 Entity-aware Transformers for Entity Search [(paper)](http://emmagerritse.com/pdfs/sigir22.pdf)  [(GitHub)](https://github.com/informagi/EMBERT) (Presented at SIGIR 2022)
 
@@ -21,7 +20,7 @@ Impact of Debiasing Word Embeddings on Information Retrieval [(paper)](http://em
 
 ### Curriculum Vitae 
 
-My CV (outdated) is [available here.](http://emmagerritse.com/pdfs/CV_Emma_Gerritse_Short_Public.pdf)
+My CV is [available here.](http://emmagerritse.com/pdfs/CV_Emma_Gerritse_public.pdf)
 
 ### Contact
 
