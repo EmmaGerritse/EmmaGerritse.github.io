@@ -1,7 +1,6 @@
 ## About
 
-
-Hi! My name is Emma Gerritse, I am a Ph.D. student at Radboud University Nijmegen. 
+Hi! My name is Emma Gerritse, I am currently a lecturer at the AI Bachelor's at the Radboud Universiteit Nijmegen, and I was previously a Ph.D. student at the Data Science Radboud University Nijmegen. 
 
 I have a Bachelor's degree in both Mathematics and Computer Science, and a Master's degree in Data Science. 
 My topic of research is the usage of Graph Embeddings in Information retrieval. I am interested in how we can use graph embeddings in the most optimal way to benefit users and the unintended effects they might have. 
